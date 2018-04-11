@@ -5,11 +5,14 @@ The genesis block of vUnits is more than complex than other genesis blocks becau
 # Licensed Emitter (LE)
 
 - DIGEX Inc.
+- CME-Commerce Solution ltd.
+- OPM Gold LP
 
 # Licensed Precious Metal Dealer (LPMD)
 
 - Helvetic Mint AG
 - SMH Schweizerische Metallhandels AG
+- Victoreanum AG
 
 # Licensed Certification Authority (LCA)
 
@@ -17,7 +20,7 @@ The genesis block of vUnits is more than complex than other genesis blocks becau
 
 # Licensed Depositary (LD)
 
-None defined at the moment yet.
+- PTC Limited
 
 # Miners
 
